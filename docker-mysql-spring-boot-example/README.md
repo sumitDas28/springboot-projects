@@ -39,7 +39,7 @@ This example demostrates a spring boot application connecting to a MySQL databas
 
 #### Get all vote details
 
-```http
+```
   GET /api/v1/getAllVoteDetails
 ```
 ##### Sample Response
@@ -66,7 +66,7 @@ This example demostrates a spring boot application connecting to a MySQL databas
 
 ### Submit Vote
 
-```http
+```
   POST /api/v1/submitVote
 ```
 ##### Sample Payload
