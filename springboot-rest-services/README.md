@@ -7,7 +7,7 @@ This example demostrates Building REST services with Spring Boot
 - Implement Exception Handling
 - Implement Request Bean Validation
 - Implementing HATEOS for REST services
-- Internationalizion
+- Internationalization
 - Content Negotiation
 - OpenAPI Documentation
     - Swagger UI : `http://localhost:8080/swagger-ui/index.html`
